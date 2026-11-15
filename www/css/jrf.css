@@ -1,0 +1,14 @@
+h1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 24pt; font-style: normal; font-weight: bold; text-align: center}
+h2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18pt; font-style: italic; font-weight: bold; text-align: center; line-height: 20pt}
+h3 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14pt; text-align: left}
+h4 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; font-style: italic; text-align: left}
+p {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; text-indent: 1cm; color: #ffffff; font-weight: 600}
+a {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #00aaFF}
+body {  background-color: #000000; color: #AAFFFF; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal}
+li {  font-weight: 600; color: #aaffff; font-family: Verdana, Arial, Helvetica, sans-serif; color: #ffffff}
+h6 {  font-style: italic}
+blockquote {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #aaffaa; font-weight: 600}
+.cCell {  color: #FFFFFF; text-align: center; vertical-align: middle; text-indent: 0pt}
+h5 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: 600}
+ul.bullet {list-style-type: disc}
+ol.num {list-style-type: decimal}
